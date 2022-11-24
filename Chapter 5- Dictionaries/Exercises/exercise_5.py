@@ -26,6 +26,6 @@ pets.append(pet)
 
 
 for pet in pets:
-    print(f"\nAbout " + pet['animal type'].title() + ":")
+    print("\nAbout " + pet['animal type'].title() + ":")
     for key, value in pet.items():
         print("\t" + key + ": " + str(value))

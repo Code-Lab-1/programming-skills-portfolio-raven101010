@@ -7,10 +7,11 @@
 
 def make_shirt(size, text):
     print("t-shirt size is ", size)
-    print("t-shirt text is ", text)
+    print("t-shirt text is ", text) 
 
-make_shirt('M', "The size of the shirt is Medium")
+make_shirt('M', "blah")
 
-make_shirt(text="The size of the shirt is Medium", size='M')
+make_shirt(text="blah", size='M')
+
 
 

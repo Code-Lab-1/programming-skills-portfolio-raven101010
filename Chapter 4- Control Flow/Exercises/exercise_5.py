@@ -1,3 +1,4 @@
+
 fruits = ['orange', 'pear', 'tomato']
 
 if 'tomato' in fruits:

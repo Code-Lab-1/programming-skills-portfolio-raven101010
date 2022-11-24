@@ -1,3 +1,4 @@
+
 friends = ["adhenz","JP", "nathan", "jose"]
 
 print(friends)

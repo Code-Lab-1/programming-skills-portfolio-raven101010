@@ -1,3 +1,4 @@
+
 prompt = "\nWhat topping would you like on your pizza?"
 prompt += "\nEnter 'quit' when you are finished: "
 
