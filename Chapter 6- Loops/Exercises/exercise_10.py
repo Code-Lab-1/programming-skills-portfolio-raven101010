@@ -1,10 +1,10 @@
 
-prompt = "What topping would you like on your pizza?"
+prompt = "What type of pants?"
 prompt += "Enter 'quit' when you are finished: "
 
 while True:
-    topping = input(prompt)
-    if topping != 'quit':
-        print("  I'll add " + topping + " to your pizza.")
+    pants = input(prompt)
+    if pants != 'quit':
+        print("  I'll get a  " + pants + " pants for you.")
     else:
         break
