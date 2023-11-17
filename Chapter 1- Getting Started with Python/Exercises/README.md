@@ -18,9 +18,12 @@ Twinkle, twinkle, little star,
 Twinkle, twinkle, little star, 
 	How I wonder what you are
 
+
 &nbsp;
 &nbsp;
 &nbsp;
+
+
 ## Exercise 2: Print the Version of Python :ballot_box_with_check:
 
  Write a Python program to get the Python version you are using.
@@ -29,6 +32,7 @@ Twinkle, twinkle, little star,
 &nbsp;
 &nbsp;
 &nbsp;
+
 ## Exercise 3: Print date and Time :ballot_box_with_check:
 
 Write a Python program to display the current date and time.
@@ -36,6 +40,7 @@ Write a Python program to display the current date and time.
 &nbsp;
 &nbsp;
 &nbsp;
+
 ## Exercise 4: Strings Concatination :ballot_box_with_check:
 Write three strings in different variables and print the output as one string.
 &nbsp;
